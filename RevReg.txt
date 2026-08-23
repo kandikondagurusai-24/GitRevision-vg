@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+				Reg Page
+
+			First Name;	........
+			Last Name:	........
+			Email:		........
+
+			   submit	cancel
